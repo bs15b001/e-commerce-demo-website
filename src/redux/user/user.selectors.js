@@ -14,6 +14,4 @@ export const selectcurrUser=createSelector(
     (user)=>user.currentUser
 
 
-
-
 )

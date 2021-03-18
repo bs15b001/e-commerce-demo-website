@@ -13,7 +13,7 @@ const persistconfig={
 
     key:'root',
     storage,
-    whitelist:['user']
+    whitelist:['cart']
 
 
 
