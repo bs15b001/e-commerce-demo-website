@@ -1,7 +1,7 @@
 {
   "name": "crwn-clothing",
   "version": "0.1.0",
-  "homepage": "https://bs15b001.github.io/e-commerce-demo-website.git",
+  "homepage": "https://bs15b001.github.io/Heroku-e-commerce_app",
   "private": true,
   "dependencies": {
     "firebase": "^8.2.4",
